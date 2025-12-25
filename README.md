@@ -10,4 +10,6 @@ I work extensively with **R and Python** to build reproducible workflows for dat
 - Biological data visualization
 
 📫 **Contact:** alii.daraei@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/ali-daraei](https://www.linkedin.com/in/ali-daraei-90838599/)
+
 
